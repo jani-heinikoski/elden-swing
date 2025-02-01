@@ -1,0 +1,32 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven's target directory (build output)
+target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# NetBeans project files
+/nbproject/private/
+/build/
+/dist/
+
+# VS Code project files
+.vscode/
+
+# MacOS and Linux system files
+.DS_Store
+*.swp
+
+# Windows system files
+Thumbs.db
